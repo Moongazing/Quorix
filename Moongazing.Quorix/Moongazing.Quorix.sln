@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moongazing.Quorix", "src\Moongazing.Quorix\Moongazing.Quorix.csproj", "{E2F66BF1-0424-4635-A509-B6856AF543FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moongazing.Quorix.Pipeline", "src\Moongazing.Quorix.Pipeline\Moongazing.Quorix.Pipeline.csproj", "{067A3056-D877-46E3-AC01-233F91AED108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2F66BF1-0424-4635-A509-B6856AF543FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F66BF1-0424-4635-A509-B6856AF543FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F66BF1-0424-4635-A509-B6856AF543FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F66BF1-0424-4635-A509-B6856AF543FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067A3056-D877-46E3-AC01-233F91AED108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067A3056-D877-46E3-AC01-233F91AED108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067A3056-D877-46E3-AC01-233F91AED108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067A3056-D877-46E3-AC01-233F91AED108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E2F66BF1-0424-4635-A509-B6856AF543FB} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{067A3056-D877-46E3-AC01-233F91AED108} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC982EF3-C8CE-413B-A561-5C7DD47E4D34}
+	EndGlobalSection
+EndGlobal
