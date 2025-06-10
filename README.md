@@ -168,7 +168,7 @@ Quorix and Quorix.Pipeline are open source and licensed under the MIT License �
 
 If you find this package helpful, please consider starring the repo or supporting development:
 
-👉 Buy Me a Coffee
+👉 [Buy Me a Coffee](https://buymeacoffee.com/tunahanali)
 📬 Contact
 
 Commercial support, licensing inquiries, or contribution discussions welcome:
